@@ -1,1 +1,1 @@
-This is a colaborator project
+This is a collaborator project.
